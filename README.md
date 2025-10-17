@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 # hi, Im Prachi 
-DAata Anylst | Python | Power BI
+Data Anylst | Python | Power BI
 
 
 - 🌱 I’m currently learning ...Machine learning and dashboard Desing
